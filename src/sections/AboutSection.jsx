@@ -204,13 +204,13 @@ export default function About() {
       <div className="about-section-pin-wrapper">
         <div className="about-section-pin" id="about-section-pin">
           <div className="about-text" data-text="random">
-            RANDOM
+            IDEAS
           </div>
           <div className="about-text" data-text="words">
-            WORDS
+            INTO
           </div>
           <div className="about-text" data-text="mind">
-            IN MIND
+            CODE
           </div>
           <div className="about-img"></div>
         </div>
